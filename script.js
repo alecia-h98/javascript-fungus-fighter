@@ -2,6 +2,10 @@
 // Feel free to make this to what you want!
 // Example:
 // let fungusHP = 100;
+let fungusHP = 100;
+let yourHP = 100;
+let fungusAP = 100;
+let yourAP = 100;
 
 function onReady() {
     console.log("Ready to go!")
