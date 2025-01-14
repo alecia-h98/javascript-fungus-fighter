@@ -12,7 +12,7 @@ function onReady() {
     
     // Make sure you check the index.html file! 
     // There are lots of buttons and things ready for you to hook into here!
-    
+ArcaneScepter();
     
     // 🧠 Remember
     // - Handle events that ->
@@ -22,3 +22,13 @@ function onReady() {
 
 
 onReady()
+
+function ArcaneScepter(event){
+    document.getElementsByClassName("attack-btn arcane-scepter").addEventListener("click", )
+
+    function scepterAttack(){
+        
+    }
+
+    
+}
